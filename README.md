@@ -1,1 +1,1 @@
-put all these file in p10_news
+put all these file in folder  "p10_news"
